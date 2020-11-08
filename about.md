@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I love to eat noodles and read manga. Some of my favorites are Chainsaw Man and SPY x Family.
 
-### More Information
+### Projects
 
-A place to include any other types of information that you'd like to include about yourself.
+None yet! https://media0.giphy.com/media/5x89XRx3sBZFC/giphy.gif
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[whe038@ucr.edu](mailto:whe038@ucr.edu)
