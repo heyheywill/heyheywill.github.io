@@ -8,7 +8,7 @@ Hi, I love to eat noodles and read manga. Some of my favorites are Chainsaw Man 
 
 ### Projects
 
-None yet! https://media0.giphy.com/media/5x89XRx3sBZFC/giphy.gif
+None yet!
 <img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width=250/>
 <img src="https://media0.giphy.com/media/5x89XRx3sBZFC/giphy.gif" alt="this tumbleweed rolls"  width=250/>
 
